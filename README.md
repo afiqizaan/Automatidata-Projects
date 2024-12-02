@@ -3,17 +3,17 @@ This repository contains a series of data projects completed as part of the Auto
 
 # Overview of Projects
 
-### 1. [Course 2 Project: Exploratory Data Analysis](./Course2_Project)
-- **Objective**: Perform exploratory data analysis (EDA) on the NYC TLC dataset to uncover patterns and trends.
-- **Key Focus**: Data cleaning, visualization, and summary statistics.
+### 1. [Course 2 Project: NYC Taxi Data Understanding](./Course2_Project)
+- **Objective**: This project investigates and organizes the provided NYC taxi cab dataset to inform future exploratory data analysis (EDA) and statistical activities.
 
-### 2. [Course 4 Project: Feature Engineering and Modeling](./Course4_Project)
-- **Objective**: Prepare the dataset for machine learning by engineering features and building initial predictive models.
-- **Key Focus**: Feature selection, transformations, and preliminary model training.
+### 2. [Course 4 Project: NYC Taxi A/B Testing and Insights](./Course4_Project)
+- **Objective**: Demonstrates knowledge of preparing, creating, and analyzing A/B tests to identify ways to increase revenue for taxi cab drivers.
 
-### 3. [Course 6 Project: Final Predictive Model](./Course6_Project)
-- **Objective**: Build and evaluate a final machine learning model to predict whether a customer will leave a tip.
-- **Key Focus**: Model evaluation, hyperparameter tuning, and deployment readiness.
+### 2. [Course 5 Project: NYC Taxi Regression Model Evaluation](./Course5_Project)
+- **Objective**: Demonstrates the use of EDA and a multiple linear regression model to evaluate and generate insights.
+
+### 3. [Course 6 Project: NYC Taxi Tipper Prediction Model](./Course6_Project)
+- **Objective**: Builds a machine learning model to predict whether a customer is a generous tipper, aiming to increase revenue for taxi cab drivers.
 
 ## Dataset
 
@@ -21,9 +21,6 @@ The projects use the NYC Taxi dataset, which includes:
 - Pickup and drop-off times, locations
 - Fare amounts, trip distances
 - Customer tipping behavior
-
-## Repository Structure
-Automatidata_Projects/ │ ├── Course2_Project/ │ ├── README.md │ ├── Activity_Course_2_Automatidata_project_lab.ipynb │ ├── Course4_Project/ │ ├── README.md │ ├── Activity_Course_4_Automatidata_project_lab.ipynb │ ├── Course6_Project/ │ ├── README.md │ ├── Activity_Course_6_Automatidata_project_lab.ipynb │ └── README.md
 
 ## Tools and Libraries
 
