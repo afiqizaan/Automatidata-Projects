@@ -3,16 +3,16 @@ This repository contains a series of data projects completed as part of the Auto
 
 # Overview of Projects
 
-### 1. [Course 2 Project: NYC Taxi Data Understanding](./Course2_Project)
+### 1. [Course 2 Project: NYC Taxi Data Understanding](./Course2_NYC_Taxi_Data_Understanding)
 - **Objective**: This project investigates and organizes the provided NYC taxi cab dataset to inform future exploratory data analysis (EDA) and statistical activities.
 
-### 2. [Course 4 Project: NYC Taxi A/B Testing and Insights](./Course4_Project)
+### 2. [Course 4 Project: NYC Taxi A/B Testing and Insights](./Course4_NYC_Taxi_Regression_Model_Evaluation)
 - **Objective**: Demonstrates knowledge of preparing, creating, and analyzing A/B tests to identify ways to increase revenue for taxi cab drivers.
 
-### 2. [Course 5 Project: NYC Taxi Regression Model Evaluation](./Course5_Project)
+### 2. [Course 5 Project: NYC Taxi Regression Model Evaluation](./Course5_NYC_Taxi_Regression_Model_Evaluation)
 - **Objective**: Demonstrates the use of EDA and a multiple linear regression model to evaluate and generate insights.
 
-### 3. [Course 6 Project: NYC Taxi Tipper Prediction Model](./Course6_Project)
+### 3. [Course 6 Project: NYC Taxi Tipper Prediction Model](./Course6_NYC_Taxi_Tipper_Prediction_Model)
 - **Objective**: Builds a machine learning model to predict whether a customer is a generous tipper, aiming to increase revenue for taxi cab drivers.
 
 ## Dataset
