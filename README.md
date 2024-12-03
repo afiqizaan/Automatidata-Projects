@@ -17,10 +17,12 @@ This repository contains a series of data projects completed as part of the Auto
 
 ## Dataset
 
-The projects use the NYC Taxi dataset, which includes:
-- Pickup and drop-off times, locations
-- Fare amounts, trip distances
-- Customer tipping behavior
+The NYC Yellow Taxi Trip dataset contains detailed trip records collected by the New York City Taxi and Limousine Commission (NYC TLC). It includes the following attributes:
+
+- **Trip Details**: Pickup and drop-off times, locations, and trip distances.
+- **Fare Information**: Fare amounts, tips, tolls, and payment methods.
+- **Passenger Data**: Passenger count per trip.
+- **Trip Metadata**: Vendor IDs and trip durations.
 
 ## Tools and Libraries
 
@@ -33,3 +35,5 @@ The projects use the NYC Taxi dataset, which includes:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yourusername/Automatidata_Projects.git
+2. Navigate to individual project directories for detailed information and notebooks.
+3. Open the .ipynb files in Jupyter Notebook or Google Colab to explore the code.
