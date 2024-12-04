@@ -42,6 +42,6 @@ The NYC Yellow Taxi Trip dataset contains detailed trip records collected by the
 ## How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/Automatidata_Projects.git
+   git clone https://github.com/afiqizaan/Automatidata-Projects.git
 2. Navigate to individual project directories for detailed information and notebooks.
 3. Open the .ipynb files in Jupyter Notebook or Google Colab to explore the code.
